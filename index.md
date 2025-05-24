@@ -1,4 +1,4 @@
-![ ](http://www.fc.uaslp.mx/images/uaslp.png)      ![ ](http://www.fc.uaslp.mx/images/ciencias.png)
+![ ](https://www.uaslp.mx/Internacional/Paginas/LISTA-DE-UNIVERSIDADES/3753)
 # PROYECTO DE PROGRAMACION NUMERICA
 ## Tarea 1
 [Practica De Introducción](https://github.com/CarlosGMB/PROYECTO-NUMERICA/blob/main/PracticaIntroduccionPrograNum-CARLOSMTZ-346307%201.py)
